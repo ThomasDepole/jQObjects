@@ -1,2 +1,2 @@
 # jQObjects
-An cleaner and more scalable way to write jQuery
+A cleaner and more scalable way to write jQuery
